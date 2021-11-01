@@ -1,4 +1,4 @@
-## Assignment1
+## Html page demonstrating the usage of Markdown
  Overview of [**github**](https://github.com/) and [**vscode**](https://code.visualstudio.com/)  
  
  
